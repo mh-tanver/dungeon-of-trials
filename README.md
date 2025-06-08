@@ -2,6 +2,7 @@
 
 Welcome to the **Dungeon of Trials**, a text-based RPG adventure built with Python!  
 Fight enemies, level up, collect loot, and try to escape the dungeon with your life intact.
+This is my first ever attempt on game development.
 
 ---
 
